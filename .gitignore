@@ -1,0 +1,13 @@
+# Go modules
+/bin
+/vendor
+/node_modules
+*.test
+*.exe
+*.out
+*.log
+
+# Docker
+Dockerfile*
+*.dockerfile
+docker-compose.yml
